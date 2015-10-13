@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6C380898-82C8-4C3B-A9E3-52209BE18708</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iPhoneScheduler</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>395958D2DBBB77467F5F46E6E4D5CAB7AACF237D</key>
+		<string>https://github.com/tun57/Dissertation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dissertation Scheduling System/iPhone/iPhoneScheduler.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>395958D2DBBB77467F5F46E6E4D5CAB7AACF237D</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tun57/Dissertation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>395958D2DBBB77467F5F46E6E4D5CAB7AACF237D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>395958D2DBBB77467F5F46E6E4D5CAB7AACF237D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dissertation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
